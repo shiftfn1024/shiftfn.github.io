@@ -195,6 +195,17 @@ address a:link, address a:visited
 	height: 80px;
 }
 
+#author
+{
+	float: left;
+}
+
+#copyright
+{
+	float: right;
+	margin-right: 15px;
+}
+
 #bottom
 {
 	width: 100%;

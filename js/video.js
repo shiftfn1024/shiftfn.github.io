@@ -13,8 +13,5 @@ function playPause()
 }
 function videoCheck()
 {
-    if(video.paused === false)
-    {
-        video.pause();
-    }
+    video.load();
 }

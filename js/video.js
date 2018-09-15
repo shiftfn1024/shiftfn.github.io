@@ -11,3 +11,10 @@ function playPause()
         video.pause();
     }
 }
+function videoCheck()
+{
+    if(video.paused === false)
+    {
+        video.pause();
+    }
+}

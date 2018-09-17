@@ -93,7 +93,7 @@ header h1
 {
 	float: left;
 	width: 360px;
-	height: 600px;
+	height: 620px;
 	background: #448D76;
 	background: -webkit-linear-gradient(-45deg, #448D76 33%, #008080 100%);
 	background: -moz-linear-gradient(-45deg, #448D76 33%, #008080 100%);
@@ -140,7 +140,7 @@ article
 {
 	float: right;
 	width: 600px;
-	height: 600px;
+	height: 620px;
 	background: #D4F7EC;
 	background: -webkit-linear-gradient(45deg, #D4F7EC 33%, #AFEEEE 100%);
 	background: -moz-linear-gradient(45deg, #D4F7EC 33%, #AFEEEE 100%);
@@ -192,7 +192,7 @@ address a:link, address a:visited
 
 #footer
 {
-	height: 80px;
+	height: 60px;
 }
 
 #author
